@@ -1,0 +1,7 @@
+name = "CanonicalBasisVectors"
+uuid = "2698a993-dacb-45d0-8146-aad42420d053"
+authors = ["Jesse Chan <jesse.lee.chan@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
